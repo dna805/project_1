@@ -7,4 +7,4 @@ GROUP BY
     category_name
 ORDER BY
     revenue DESC
-LIMIT 10;
+LIMIT 3;

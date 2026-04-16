@@ -8,4 +8,4 @@ GROUP BY
     category_name
 ORDER BY
     order_count DESC
-LIMIT 10;
+LIMIT 3;

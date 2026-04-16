@@ -10,5 +10,5 @@ GROUP BY
     products.category_name,sellers.seller_id
 ORDER BY
     sellers_revenue DESC
-LIMIT 10;
+LIMIT 3;
 

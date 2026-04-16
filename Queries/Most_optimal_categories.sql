@@ -15,4 +15,4 @@ FROM
    product_metrics
 ORDER BY 
    optimality_score DESC 
-LIMIT 10;
+LIMIT 3;
